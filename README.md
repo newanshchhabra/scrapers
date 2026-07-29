@@ -8,6 +8,9 @@ project scrapes recent articles from Dazed Digital, keeping only
 articles published within the last six months and exporting the results
 as structured JSON.
 
+Presentation Link:
+https://app.notion.com/p/Scraper-Presentation-3ace2d27cfcc80638d63ef80d6731dfe?source=copy_link
+
 ## Workflow
 
 ### 1. Data Extraction
